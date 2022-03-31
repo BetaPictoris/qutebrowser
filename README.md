@@ -22,11 +22,6 @@
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
 
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
-
 ## 💝 Thanks to
 
 - [Human](https://github.com/catppuccin)
