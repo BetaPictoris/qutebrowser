@@ -17,10 +17,9 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Copy the contents of `config.py` into Qutebrowser's `config.py`. 
+2. Run `:config-source`
+3. *Enjoy!*
 
 ## 💝 Thanks to
 
