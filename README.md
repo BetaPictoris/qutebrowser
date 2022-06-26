@@ -1,8 +1,9 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for Qutebrowser
+	Catppuccin for Qutebrowser<br>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+    This port hasn't been updated Catppuccin's v0.2.0 spec, please use <a href="https://github.com/nekowinston/ctp-qutebrowser">nekowinston/ctp-qutebrowser</a> instead.
 </h3>
 
 <p align="center">
